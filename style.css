@@ -59,6 +59,10 @@ main {
 	margin-right: 5px;
 	float: left;
 }
+.img3 {
+    max-width: 100%;
+    margin-top: 10px;
+}
 .main-right {
     width: 48%;
     margin-right: 10px;
@@ -70,6 +74,7 @@ main {
 	text-align: justify;
     
 }
+
 
 .img5 {
     float: left;
@@ -111,7 +116,11 @@ main {
     .img3 {
         float: none;
         text-align: center;
+        height: auto;
+        width: 100%;
+        
         margin-bottom: 10px;
+        
     }
     .main-right {
     width: 90%;
