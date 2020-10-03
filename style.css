@@ -3,9 +3,11 @@ body {
 	padding: 0px;
 }
 .wrap {
+    
    max-width: 1244px;
    padding: 15px;
    margin: 0px auto;
+   padding-top: 0px;
 }
 header { 
     
@@ -97,6 +99,7 @@ main {
     }
     main {
         width: 100%;
+        height: auto;
 }
     .main-warp {
         width: 100%;
