@@ -119,7 +119,7 @@ main {
 }
     .main-text {
 	font-family: Arial;
-	font-size: 12px;
+	font-size: 16px;
 	text-indent: 7px;
 	text-align: justify;
 }
@@ -145,7 +145,7 @@ main {
 }
     .main-text2 {
     font-family: Arial;
-	font-size: 12px;
+	font-size: 16px;
 	text-indent: 7px;  
 	text-align: justify;
     margin-left: 15px;
