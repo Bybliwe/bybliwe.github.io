@@ -99,6 +99,9 @@ main {
     .wrap {
         width: 100%;
     }
+    header{
+        width: 100%;
+    }
     .header-wrap {
         width: 100%;
     }
