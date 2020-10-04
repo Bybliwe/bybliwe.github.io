@@ -96,6 +96,9 @@ main {
 }
 
 @media screen and (max-width: 600px) {
+    .wrap {
+        width: 100%;
+    }
     .header-wrap {
         width: 100%;
     }
