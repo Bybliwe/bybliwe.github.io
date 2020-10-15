@@ -122,8 +122,9 @@ main {
         flex-direction: column;
     }
     .main-left {
+        
 	width: 90%;
-	margin-left: 10px;
+	margin: auto;
 }
     .main-text {
 	font-family: Arial;
