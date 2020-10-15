@@ -12,7 +12,7 @@ body {
 }
 header { 
     
-	width:100%;	
+	width: 100%;	
 	margin: auto;
 }
 li {
@@ -53,7 +53,7 @@ a:hover {
 	text-align: center;
     margin-top: 0px;
 }
-@media screen and (max-width: 600px){
+@media screen and (max-width: 600px) {
     .wrap {
         width: 100%;
     }
@@ -61,6 +61,9 @@ a:hover {
         width: 100%;
     }
     header {
+        width: 100%;
+    }
+    .header-two {
         width: 100%;
     }
     .header-fon {
