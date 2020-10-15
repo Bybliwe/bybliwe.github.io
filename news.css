@@ -69,6 +69,9 @@ a:hover {
         background-image: url(image4.png);
     }
     .header-h1 {
+    display: block;
+    left: 50%;
+    top: 25px;
     font-family: cursive;
     color: white;
     text-shadow: 2px 2px 6px blue;
