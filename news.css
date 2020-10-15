@@ -38,7 +38,7 @@ a:hover {
 	justify-content: space-between;
 }
 .header-fon {
-    background-image: url(image3.png);
+    background-color: gray;
     height: 619px;
     text-align: center;
 }
