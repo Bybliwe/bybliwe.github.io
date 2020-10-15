@@ -67,5 +67,11 @@ a:hover {
         max-width: 600px;
         max-height: 300px;
     }
-    
+    .header-h1 {
+    font-family: cursive;
+    color: white;
+    text-shadow: 2px 2px 6px blue;
+	text-align: center;
+    margin-top: 0px;
+}
 }
