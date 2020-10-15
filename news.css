@@ -68,11 +68,15 @@ a:hover {
         background-color: gray;
     }
     .header-h1 {
-    display: none;
+    display: block;
+    position: absolute;
+    top: 50px;
+    left: 30%;
     font-family: cursive;
     color: white;
     text-shadow: 2px 2px 6px blue;
-	text-align: center;
+	font-size: 23px;
     margin-top: 0px;
+        
 }
 }
