@@ -150,7 +150,7 @@ main {
     }
     .main-right {
     width: 90%;
-    margin-right: 10px;
+    margin: auto;
 }
     .main-text2 {
     font-family: Arial;
