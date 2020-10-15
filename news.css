@@ -38,7 +38,7 @@ a:hover {
 	justify-content: space-between;
 }
 .header-fon {
-    background-image: url(image3.png);
+    /*background-image: url(image3.png);*/
     height: 619px;
     text-align: center;
 }
@@ -68,7 +68,7 @@ a:hover {
     }
     .header-fon {
         background-image: none;
-        background-color: gray;
+        
     }
     .header-h1 {
     display: block;
@@ -80,6 +80,6 @@ a:hover {
     text-shadow: 2px 2px 6px blue;
 	font-size: 23px;
     margin-top: 0px;
-        
-}
+    }
+
 }
