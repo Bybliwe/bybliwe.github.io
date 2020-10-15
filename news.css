@@ -57,5 +57,15 @@ a:hover {
     .wrap {
         width: 100%;
     }
+    .header-wrap {
+        width: 100%;
     }
+    header {
+        width: 100%;
+    }
+    .header-fon {
+        max-width: 600px;
+        max-height: 300px;
+    }
+    
 }
