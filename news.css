@@ -53,3 +53,9 @@ a:hover {
 	text-align: center;
     margin-top: 0px;
 }
+@media screen and (max-width: 600px){
+    .wrap {
+        width: 100%;
+    }
+    }
+}
