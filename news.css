@@ -64,6 +64,7 @@ a:hover {
         width: 100%;
     }
     .header-fon {
+        background-image: none;
         background-color: gray;
     }
     .header-h1 {
