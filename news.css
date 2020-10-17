@@ -43,10 +43,6 @@ a:hover {
     text-align: center;
 }
 .header-h1 {
-    display: block;
-    position: absolute;
-    top: 50px;
-    left: 622px;
     font-family: cursive;
     color: white;
     text-shadow: 2px 2px 6px blue;
@@ -72,10 +68,6 @@ a:hover {
         
     }
     .header-h1 {
-    display: block;
-    position: absolute;
-    top: 50px;
-    left: 30%;
     font-family: cursive;
     color: white;
     text-shadow: 2px 2px 6px blue;
