@@ -157,7 +157,7 @@ main {
 	font-size: 16px;
 	text-indent: 7px;  
 	text-align: justify;
-    margin-left: 15px;
+    margin:auto;
 }
 .img5 {
     float: none;
