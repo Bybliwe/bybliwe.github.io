@@ -55,6 +55,7 @@ a:hover {
 }
 @media screen and (max-width: 600px) {
     .wrap {
+        padding: 0px;
         width: 100%;
     }
     .header-wrap {
