@@ -72,12 +72,12 @@ main {
 	text-indent: 7px;
 	text-align: justify;
 }
-.img2 {
+.main-header-img {
 	
 	margin-right: 5px;
 	float: left;
 }
-.img3 {
+.main-right-img {
     max-width: 100%;
     margin-top: 10px;
 }
@@ -94,7 +94,7 @@ main {
 }
 
 
-.img5 {
+.main-left-img {
     float: left;
     margin-right: 5px;
 }
@@ -132,14 +132,14 @@ main {
 	text-indent: 7px;
 	text-align: justify;
 }
-   .img2 {
+   .main-header-img {
 	float: none;
 	text-align: center;
     margin-left: 25px;
     margin-bottom: 10px;
 	
 } 
-    .img3 {
+    .main-right-img {
         float: none;
         text-align: center;
         height: auto;
@@ -159,7 +159,7 @@ main {
 	text-align: justify;
     margin:auto;
 }
-.img5 {
+.main-left-img {
     float: none;
     text-align: center;
     margin-left: 15px;
