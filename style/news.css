@@ -1,7 +1,7 @@
 body {
 	margin: 0px;
 	padding: 0px;
-    background-color: gray;
+    
 }
 .wrap {
     
@@ -11,7 +11,7 @@ body {
    padding-top: 0px;
 }
 header { 
-    
+    border: 1px solid black;
 	width: 100%;	
 	margin: auto;
 }
@@ -31,10 +31,10 @@ a:hover {
     color: red;
 }
 a {
-    color: chartreuse;
+    color: black;
 }
 .header-wrap {
-	background-color: #19379c;
+	background-color: #f2f3f4;
 	width: 100%;
 	margin: 0px auto;
 	display: flex;
@@ -54,7 +54,8 @@ a {
 }
 .main {
     width: 100%;
-    background-color: lightblue;
+    background-color: #edf3f2;
+    border: 1px solid black;
 }
 .main-text{
     display: flex;
