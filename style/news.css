@@ -117,6 +117,9 @@ a {
 	font-size: 23px;
     margin-top: 0px;
     }
+    .nav-itm {
+    font-size: 18px;
+}
 .main {
     width: 100%;
 }
