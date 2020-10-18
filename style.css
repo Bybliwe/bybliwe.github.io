@@ -119,6 +119,9 @@ main {
     .header-wrap {
         width: 100%;
     }
+    .nav-itm {
+    font-size: 18px;
+}
     main {
         width: 100%;
         height: auto;
