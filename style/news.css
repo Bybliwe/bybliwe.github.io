@@ -38,7 +38,7 @@ a:hover {
 	justify-content: space-between;
 }
 .header-fon {
-    /*background-image: url(image3.png);*/
+    
     
     text-align: center;
 }
@@ -84,12 +84,7 @@ a:hover {
 .main-text2-rigth {
     width: 48%;
 }
-p {
-    color: #f0f2f8;
-}
-li {
-    color: #f0f2f8;
-}
+
 @media screen and (max-width: 600px) {
     .wrap {
         padding: 0px;
@@ -115,8 +110,6 @@ li {
 	font-size: 23px;
     margin-top: 0px;
     }
-
-}
 .main {
     width: 100%;
 }
@@ -130,4 +123,5 @@ li {
 }
 .main-text2-left, .main-text2-rigth {
     width: 95%;
+}
 }
