@@ -51,7 +51,7 @@ a:hover {
 }
 .main {
     width: 100%;
-    background-color: #39637a;
+    background-color: lightblue;
 }
 .main-text{
     display: flex;
