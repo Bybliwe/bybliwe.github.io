@@ -12,7 +12,7 @@ body {
 }
 header { 
     border: 1px solid black;
-	width:100%;	
+	width: 100%;	
 	margin: auto;
 }
 li {
@@ -22,6 +22,9 @@ li {
  a:link  {
 	text-decoration: none;
     color: red;
+}
+.nav-itm {
+    font-size: 18px;
 }
 a:hover {
     color: black;
