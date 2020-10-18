@@ -30,6 +30,9 @@ a:hover {
 .active {
     color: red;
 }
+a {
+    color: chartreuse;
+}
 .header-wrap {
 	background-color: #19379c;
 	width: 100%;
