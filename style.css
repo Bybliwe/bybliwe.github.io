@@ -128,7 +128,10 @@ main {
     .nav-itm {
     font-size: 18px;
 }
-    main {
+    .menu {
+        position: inherit;
+    }
+    .main {
         width: 100%;
         height: auto;
 }
