@@ -15,6 +15,12 @@ header {
 	width: 100%;	
 	margin: auto;
 }
+.menu {
+    
+    position: relative;
+    left: 130%;
+    font-size: 20px;
+}
 li {
 	display: inline-block;
 	margin-left: 10px;
@@ -24,7 +30,7 @@ li {
     color: red;
 }
 .nav-itm {
-    font-size: 18px;
+    font-size: 20px;
 }
 a:hover {
     color: black;
