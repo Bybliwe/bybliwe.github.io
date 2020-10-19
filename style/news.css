@@ -126,7 +126,11 @@ a {
     .nav-itm {
     font-size: 18px;
 }
+    .menu {
+        position: inherit;
+    }
 .main {
+    
     width: 100%;
 }
 .main-text, .main-text2 {
